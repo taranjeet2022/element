@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace Taran\Element;
+namespace Krypton\Element;
 
 class Element
 {
