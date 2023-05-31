@@ -4,7 +4,7 @@ declare(strict_types=1);
 
 require_once('vendor/autoload.php');
 
-use Taran\Element\Element;
+use Krypton\Element\Element;
 
 $alert = [
   'name' => 'div',
