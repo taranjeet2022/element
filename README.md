@@ -41,4 +41,4 @@ $element->render();
 License
 =======
 
-This class provided as per the GPL license http://www.gnu.org/licenses/gpl.html
+This class is provided as per the GPL license http://www.gnu.org/licenses/gpl.html
