@@ -1,0 +1,29 @@
+{
+  "name": "taran/element",
+  "description": "A element class in PHP",
+  "keywords": [
+    "ui-element",
+    "element"
+  ],
+  "type": "library",
+  "homepage": "http://github.com/taranjeet2022/element/",
+  "license": "GPL-3.0",
+  "authors": [
+    {
+      "name": "Taranjeet Singh Chhabra",
+      "homepage": "https://github.com/taranjeet2022",
+      "role": "Developer"
+    }
+  ],
+  "support": {
+    "issues": "https://github.com/taranjeet2022/bootstrapsystem/issues"
+  },
+  "require": {
+    "php": ">=8.0.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "Taran\\Element\\": "src/"
+    }
+  }
+}
